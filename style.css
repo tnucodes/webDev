@@ -1,0 +1,49 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+h2,
+p {
+    color: blue;
+    text-align: center;
+    border: 5px solid black;
+}
+
+p {
+    text-decoration: underline;
+    line-height: 50px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 200%;
+    font-family: "Bitcount Prop Single", system-ui;
+    color: brown;
+}
+
+img {
+    float: right;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+footer{
+    color: brown;
+    font-size: 50px;
+    clear: both;
+    text-align: center;
+}
+
+.webtext {
+    border: 5px solid beige;
+}
+
+.active {
+    color: chocolate;
+}
+
+#div1 {
+    background-color: rgba(0, 0, 255, 0.2);
+}
